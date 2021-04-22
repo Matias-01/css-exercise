@@ -31,6 +31,30 @@ h3 {
 	margin-bottom: 0; 
 	color: #7D775C;
 	}
+.preamble h3 {
+	color: #dd3b2a;
+    font-family: 'Adelle W01 Bold', 'Arvo', Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 1.25em;
+    margin: 0.5em 0;
+}
+.explanation h3 {
+    margin: 2em 0 0 0;
+    color: #2e484c;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.8em;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 1em 20px;
+}
+.participation h3 {
+	box-shadow: inset 0 0 18px rgba(70,15,35,0.8);
+    background-image: url('story.gif');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
